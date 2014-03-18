@@ -5,10 +5,10 @@ from django.conf import settings
 from django.core.management.base import BaseCommand, CommandError
 
 '''
-originally based off of:
+originally based on:
     https://gist.github.com/3555765
 
-    which was originally based off of:
+    which was originally based on:
         http://code.activestate.com/recipes/577708/
 
 '''
